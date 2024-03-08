@@ -16,6 +16,7 @@ Set the macros' delay to the minimum and configure them to execute once (so that
 2. Assign the macros to the mouse buttons according to your preference.
 3. Download the .exe
 4. To use it, simply launch the client before starting your game. Once in the game, you can activate the macros as needed.
+**Make sure not to close the terminal, as doing so will shut down the software!**
 5. Have fun !
 
 This macro was created in python and work with keyboard and pyautogui plugin. 
