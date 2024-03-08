@@ -15,8 +15,9 @@ The other should simulate pressing the "8" key on your numeric keypad; this will
 Set the macros' delay to the minimum and configure them to execute once (so that when you press, it triggers the macro only once).
 2. Assign the macros to the mouse buttons according to your preference.
 3. Download the .exe
-4. To use it, simply launch the client before starting your game. Once in the game, you can activate the macros as needed.  
-**Make sure not to close the terminal, as doing so will shut down the software!**
+4. To use it, simply launch the client before starting your game. Once in the game, you can activate the macros as needed.
 5. Have fun !
+
+**To stop the client, go to the hidden icons (small arrow at the bottom right), right-click on the icon, and select "Quit".**
 
 This macro was created in python and work with keyboard and pyautogui plugin. 
